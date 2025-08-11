@@ -10,6 +10,7 @@ git add <filename>
 git commit -m 'Commit Message'
 git add -A 
 git status
+clear
 git reset --hard
 ```
 
