@@ -14,6 +14,9 @@ clear
 git branch
 git checkout -b <new-branch-name> (-b create a new branch in it is not existing)
 git checkout <branch-name> (is how we move from branches)
+git remote add <origin> <url>
+git push origin <branch-name>
+git  tag -a <verison> -m "first release"
 git reset --hard
 ```
 
