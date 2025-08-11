@@ -35,3 +35,7 @@ Branches:
     - Merge features into here for all teammates, and push to github
 - feature-branch (Don't put spaces in folder)
     - Do the major dev here 
+
+## Contributors 
+
+- Kevin Pham
